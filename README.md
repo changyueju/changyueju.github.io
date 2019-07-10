@@ -88,7 +88,7 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 * 北七家镇政府只强调折中协商，不依据法律法规
 
 ## 北京城建开发商知法犯法
-* 2019-05-27日 北京城建开发商夸大宣传蒙骗商品房业主，而且知法犯法，雇佣大量黑保安强行增设附属设施
+* 2019-05-27日 北京城建旗下全资子公司开发商夸大宣传蒙骗商品房业主，而且知法犯法，雇佣大量黑保安强行增设附属设施
 视频证据列表：
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/1.mp4">视频1</a>
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2.mp4">视频2</a>
@@ -114,4 +114,6 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/22.mp4">视频22</a>
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/23.mp4">视频23</a>
 
-## 呼吁大家公共抵制黑心房地产商
+## 呼吁大家共同抵制黑心房地产商北京城建旗下北京世纪鸿城置业有限公司以及北京城建的不作为行为
+## 企查查北京世纪鸿城置业有限公司 是由北京城建投资发展股份有限公司100%全资所有 https://www.qichacha.com/firm_0dc47d0952e5481ce95b079fe25cdc4d.html 
+
