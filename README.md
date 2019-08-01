@@ -29,8 +29,8 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 <tr>
 <th width="200px">依据法规</th>
 <th align="center" width="200px">法规/规划部分内容</th>
-<th align="right"width="200px">违规事项</th>
-<th align="right"width="200px">材料链接</th>
+<th align="center"width="200px">违规事项</th>
+<th align="center"width="200px">材料链接</th>
 </tr>
 </thead>
 <tbody>
