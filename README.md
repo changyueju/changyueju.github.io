@@ -70,6 +70,12 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 <td align="right"></td>
 <td align="right"></td>
 </tr>
+  <tr>
+<td>北七家城管下达违建限时拆除通知</td>
+<td align="center"><a href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/北京城建畅悦居隔离违建.jpg" rel="nofollow">北七家城管下达违建限时拆除通知</a></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
 </tbody>
 </table>
 
