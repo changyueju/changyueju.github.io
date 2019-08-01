@@ -124,7 +124,7 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 
 ## 呼吁大家共同抵制黑心房地产商北京城建旗下北京世纪鸿城置业有限公司以及北京城建的不作为行为
 ## 企查查北京世纪鸿城置业有限公司 是由北京城建投资发展股份有限公司100%全资
-  企查查链接： https://www.qichacha.com/firm_0dc47d0952e5481ce95b079fe25cdc4d.html 
+  企查查链接： <a target="_blank" href = "https://www.qichacha.com/firm_0dc47d0952e5481ce95b079fe25cdc4d.html"> https://www.qichacha.com/firm_0dc47d0952e5481ce95b079fe25cdc4d.html </a>
 
 <hr/>
 <a target="_blank" href = "http://www.changyueju.net">畅悦居社区网 </a>
