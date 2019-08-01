@@ -2,11 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
 h1.project-name{
   display:none !important;
 }
 
-h2..project-tagline
+h2.project-tagline
 {
   font-size:2.8rem !important;
 }
