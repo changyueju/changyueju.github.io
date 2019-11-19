@@ -97,9 +97,12 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 以北京市为例，2015年发布的《关于进一步加强保障性住房等住房物业服务管理工作的通知》明确要求实施统一物业管理的小区，建设单位不得通过增设围栏、绿植等方式，将同一个物业管理区域内的保障性住房与商品住房分割。此外，已建成的小区增设分隔管理附属设施也违反《物业管理条例》和《北京市物业管理办法》，必须立即停止。
 * 京房子公布的北京2019.7月份37个问题物业曝光名单 <a  target="_blank"  href="https://mp.weixin.qq.com/s/nd5TF_7YZzAPFQHvezR9aA"> https://mp.weixin.qq.com/s/nd5TF_7YZzAPFQHvezR9aA</a>  其中北京城建畅悦家园（畅悦居）的开发商北京世纪鸿城榜上有名。 上榜原因： 私设隔离设施   京房子发布的黑榜信息: <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2019.07.blackboard1.jpg"> https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2019.07.blackboard1.jpg</a> <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2019.07.blackboard2.jpg"> https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2019.07.blackboard2.jpg</a>
 
-## 官方模糊的执法态度让法规失去尊严
+## 镇政府官方一度有些模糊的执法态度让法规失去尊严，好在不断的业主上访和城管部门的进一步勘察做实违建证据
 
 * 北七家镇政府只强调折中协商，不依据法律法规
+* 2019-07-23 北七家城管下达违建限时拆除通知  
+* 畅悦居和龙樾华府的置业公司（物业）对城管的拆除通知和行政复议的部门进行法律诉讼
+* 2019-11-18 昌平区法院当庭宣判认为限拆决定认定事实清楚，适用法律法规正确，履行程序合法。驳回原告诉求。
 
 ## 北京城建开发商知法犯法
 * 2019-05-27日 北京城建旗下全资子公司开发商夸大宣传蒙骗商品房业主，而且知法犯法，雇佣大量黑保安强行增设附属设施
