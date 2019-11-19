@@ -78,8 +78,8 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 </tr>
   
   <tr>
-<td>2019-11-18</td>
-<td align="center"><a href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/北京城建畅悦居隔离违建.jpg" rel="nofollow">2019-11-18 昌平区法院当庭宣判认为限拆决定认定事实清楚，适用法律法规正确，履行程序合法。</a></td>
+<td>2019-11-18 昌平区法院当庭宣判认为限拆决定认定事实清楚，适用法律法规正确，履行程序合法。</td>
+<td align="center">2019-11-18 昌平区法院当庭宣判认为限拆决定认定事实清楚。</td>
 <td align="right">昌平区法院当庭宣判认为限拆决定（172个违建“小院”）认定事实清楚，适用法律法规正确，履行程序合法。</td>
 <td align="right">新闻来源：<a href="http://bj.people.com.cn/n2/2019/1118/c82840-33552144.html" target="_blank">人民日报</a>，<a href="https://mp.weixin.qq.com/s/gvRpz7b-BDrLm-NyO6_FVQ" target="_blank">北京晚报</a>，<a href="https://mp.weixin.qq.com/s/56XW1Of4Jf68pJxAR4Nfrg" target="_blank">京法网事</a></td>
 </tr>
